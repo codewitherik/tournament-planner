@@ -1,22 +1,28 @@
 <div align="center">
+  
+  ![GitHub repo size](https://github.com/codewitherik/tournament-planner)
+  ![GitHub stars](https://img.shields.io/github/stars/codewitherik/tournament-planner?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewitherik/tournament-planner?style=social)
 
-![Github repo size] (https://github.com/codewitherik/tournament-planner)
-![Github stars] (https://github.com/codewitherik/tournament-planner)
-![Github forks] (https://github.com/codewitherik/tournament-planner)
-[![Github followers]] (https://github.com/codewitherik)
+  <br />
+  <br />
+
+  <h2 align="center">Tournament Planner Tournamet Website</h2>
+
+  Tournament-Planner is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+  <a href=""><strong>➥ Live Demo</strong></a>
+
+</div>
 
 <br />
-<br/>
 
-<h2 align="center">Tournament Planner 2025</h2>
 
-Tournament Planner is a fully responsive tournament website, <br />  with all features for all devices , bulid using html css javascript and custom things
+### Prerequisites
 
-<a href=""><strong></strong> > Live Demo</a>
+Before you begin, ensure you have met the following requirements:
 
-### Demo Screenshoots 
-
-![tournament planner desktop demo](               "desktop demo")
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
@@ -25,20 +31,20 @@ To run **Tournament Planner** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/codewitherik/tournament-planner.git
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/codewitherik/tournament-planner.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Web.de](erik-1301@web.de).
+If you want to contact with me you can reach me at [Web.de]
+(erik-1301@web.de)
 
 ### License
 
 [Apache.2.0](https://choosealicense.com/licenses/apache-2.0/)
-
